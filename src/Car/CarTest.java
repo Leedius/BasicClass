@@ -1,10 +1,13 @@
+package Car;
+
 public class CarTest {
     public static void main(String[] args) {
-        //Car 클래스의 객체 선언.
+        //com.car.Car 클래스의 객체 선언.
         //문법 : class명 객체명;
         Car car1;
 
         //선언한 객체 생성
+        //new : 새로운 객체 생성
         car1 = new Car();
 
         //객체의 선언 및 생성

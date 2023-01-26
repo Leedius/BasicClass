@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ca000b-2370-454f-8b36-b750d77752ff" name="변경" comment="" />
+    <list default="true" id="d3ca000b-2370-454f-8b36-b750d77752ff" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car/CarTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car1/Car1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car1/Car1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Member/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Song/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Song/SongTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KqSSa5Lo7e1dIFLDYXIx3cCLjB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,7 +51,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />

@@ -1,6 +1,8 @@
+package Car;
+
 public class CarTest2 {
     public static void main(String[] args) {
-        //car1, car2라는 Car 클래스에 대한
+        //car1, car2라는 com.car.Car 클래스에 대한
         //객체 두 개를 생성.
         Car car1 = new Car();
         Car car2 = new Car();

@@ -1,7 +1,5 @@
 package Car1;
 
-import Car.Car;
-
 import java.util.Scanner;
 
 public class Car1Test {

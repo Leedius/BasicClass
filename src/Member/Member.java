@@ -22,19 +22,24 @@ public class Member {
     }
 
     //회원나이를 변경하는 메소드
-    public void setMemberAge(int memberage1){
-        MemberAge=memberage1;
+    public void setMemberAge(int memberAge1){
+        MemberAge=memberAge1;
     }
 
     //회원정보를 변경하는 메소드
     public void setMemberInfo(String memberName1,
                               String memberId1,
                               String memberPw1,
-                              int memberage1 ){
+                              int memberAge1 ){
         MemberName=memberName1;
         MemberId=memberId1;
         MemberPw=memberPw1;
-        MemberAge=memberage1;
+        MemberAge=memberAge1;
+    }
+
+    //회원이름을 출력하는 메소드
+    public void printmemberName(){
+        System.out.println("회원이름은 : "+MemberName);
     }
 
     public void printMemberInfo(){

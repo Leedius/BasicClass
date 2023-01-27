@@ -1,4 +1,4 @@
-package Car;
+package 문법설명.Car;
 
 public class CarTest2 {
     public static void main(String[] args) {
@@ -11,3 +11,4 @@ public class CarTest2 {
         System.out.println(car2.brand);         //null출력 car1과 car2는 따로 구분된다.
     }
 }
+

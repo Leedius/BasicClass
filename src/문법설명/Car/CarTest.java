@@ -1,4 +1,4 @@
-package Car;
+package 문법설명.Car;
 
 public class CarTest {
     public static void main(String[] args) {
@@ -26,3 +26,4 @@ public class CarTest {
 
     }
 }
+

@@ -1,4 +1,4 @@
-package Person;
+package 문법설명.Person;
 
 //사람은 이름, 나이, 주소 데이터를 가짐.
 public class Person {

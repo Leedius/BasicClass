@@ -1,4 +1,4 @@
-package Person;
+package 문법설명.Person;
 
 public class PersonTest {
     public static void main(String[] args) {
